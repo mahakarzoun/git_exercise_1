@@ -1,3 +1,5 @@
 strawberry
 blueberry
 orange 
+watermelon 
+kiwi
