@@ -1,3 +1,5 @@
 strawberry
-mango 
+banana 
 orange 
+watermelon 
+kiwi
